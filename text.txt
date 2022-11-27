@@ -4,3 +4,4 @@ prosto 3
 prosto 4
 prosto 5
 prosto 6
+prosto 7
